@@ -38,7 +38,6 @@ for num in range(lower,upper + 1):
 ```
 > Output
 ```
-
 Enter upper range: 50
 2
 3
@@ -112,6 +111,7 @@ key = c : value = blackbess
 
 
 ## Question 7:
+WAP to read a number and print sum of its digits.
 ```python
 n = int(input("enter a number : "))
 
